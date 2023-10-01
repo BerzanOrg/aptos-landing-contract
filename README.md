@@ -1,6 +1,16 @@
 # aptos-landing-contract
 Move module for Aptos Landing dApp.
 
+The dApp is live at [berzanxyz.github.io](https://berzanxyz.github.io/aptos-landing-interface/0x4eb9d24d059db22f0f2a858f128f2e747f5ff7c441c2b95c87559aae1c29c4f7).
+
+An interface for Aptos Landing dApp resides in [`aptos-landing-interface`](https://github.com/berzanxyz/aptos-landing-interface).
+
+## Clone the repo
+You can run the command below to clone the repo.
+```sh
+git clone https://github.com/berzanxyz/aptos-landing-contract.git
+```
+
 
 ## Setup a development environment
 You can use [`Dev Containers`](https://code.visualstudio.com/docs/devcontainers/containers) to setup a development environment.
