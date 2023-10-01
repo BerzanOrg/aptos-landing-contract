@@ -5,6 +5,8 @@ The dApp is live at [berzanxyz.github.io](https://berzanxyz.github.io/aptos-land
 
 An interface for Aptos Landing dApp resides in [`aptos-landing-interface`](https://github.com/berzanxyz/aptos-landing-interface).
 
+Events and tests are not implemented as this project is very basic.
+
 ## Clone the repo
 You can run the command below to clone the repo.
 ```sh
